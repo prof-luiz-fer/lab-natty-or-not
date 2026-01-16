@@ -1,15 +1,16 @@
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Ilustração de um macaco na praia 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utiliza META IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Através do META IA presente no WhatsApp 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
